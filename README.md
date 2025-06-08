@@ -64,7 +64,7 @@ The pipeline is orchestrated using DVC, ensuring reproducibility and versioning 
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/vikashishere/YT-MLOPS-Complete-ML-Pipeline.git
+    git clone git@github.com:sakethlingerker/ML-Pipeline.git
     ```
 
 2.  **Install dependencies:**
